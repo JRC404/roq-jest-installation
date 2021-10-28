@@ -1,0 +1,18 @@
+{
+  "name": "jest-walkthrough",
+  "version": "1.0.0",
+  "description": "The Jest Setup - this time, it should work",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+    "author": "Jacob Reilly-Cooper",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
